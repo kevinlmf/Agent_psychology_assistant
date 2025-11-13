@@ -1,0 +1,45 @@
+[
+  {
+    "session_id": "1ad4a901-37eb-48a4-a781-b85247d67f42",
+    "user_id": "cli_user",
+    "start_time": "2025-11-13T13:09:19.387689",
+    "end_time": null,
+    "turns": [
+      {
+        "timestamp": "2025-11-13T13:09:19.387726",
+        "user_message": "没钱了咋办呢",
+        "agent_response": "",
+        "detected_emotion": null,
+        "risk_level": null,
+        "intervention_type": null
+      },
+      {
+        "timestamp": "2025-11-13T13:14:12.259228",
+        "user_message": "我最近压力大",
+        "agent_response": "",
+        "detected_emotion": null,
+        "risk_level": null,
+        "intervention_type": null
+      },
+      {
+        "timestamp": "2025-11-13T13:36:57.415977",
+        "user_message": "I want to see a psychologist but worried about cost",
+        "agent_response": "",
+        "detected_emotion": null,
+        "risk_level": null,
+        "intervention_type": null
+      },
+      {
+        "timestamp": "2025-11-13T13:37:10.526037",
+        "user_message": "My knee hurts when exercising",
+        "agent_response": "",
+        "detected_emotion": null,
+        "risk_level": null,
+        "intervention_type": null
+      }
+    ],
+    "summary": null,
+    "identified_themes": [],
+    "user_satisfaction": null
+  }
+]

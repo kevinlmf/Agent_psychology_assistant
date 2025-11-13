@@ -1,0 +1,21 @@
+[
+  {
+    "session_id": "167d2e3c-71d2-4b20-8662-acdc5e7cef96",
+    "user_id": "demo_user_sports",
+    "start_time": "2025-11-13T13:09:50.169030",
+    "end_time": null,
+    "turns": [
+      {
+        "timestamp": "2025-11-13T13:09:50.169036",
+        "user_message": "我想了解我的运动损伤风险",
+        "agent_response": "",
+        "detected_emotion": null,
+        "risk_level": null,
+        "intervention_type": null
+      }
+    ],
+    "summary": null,
+    "identified_themes": [],
+    "user_satisfaction": null
+  }
+]

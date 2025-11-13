@@ -1,0 +1,29 @@
+[
+  {
+    "session_id": "7509958e-25ec-4663-89da-cd4f676cd31b",
+    "user_id": "demo_user_001",
+    "start_time": "2025-11-13T13:09:50.164994",
+    "end_time": null,
+    "turns": [
+      {
+        "timestamp": "2025-11-13T13:09:50.165007",
+        "user_message": "我最近工作压力很大，睡眠不好，而且运动时膝盖有点疼",
+        "agent_response": "",
+        "detected_emotion": null,
+        "risk_level": null,
+        "intervention_type": null
+      },
+      {
+        "timestamp": "2025-11-13T13:13:02.804330",
+        "user_message": "我最近工作压力很大，睡眠不好，而且运动时膝盖有点疼",
+        "agent_response": "",
+        "detected_emotion": null,
+        "risk_level": null,
+        "intervention_type": null
+      }
+    ],
+    "summary": null,
+    "identified_themes": [],
+    "user_satisfaction": null
+  }
+]

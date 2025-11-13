@@ -1,0 +1,21 @@
+[
+  {
+    "session_id": "d373731c-0831-4ef6-819b-f21e0391569a",
+    "user_id": "demo_user_mental",
+    "start_time": "2025-11-13T13:09:50.167474",
+    "end_time": null,
+    "turns": [
+      {
+        "timestamp": "2025-11-13T13:09:50.167478",
+        "user_message": "我最近工作压力很大，经常感到焦虑，不知道该怎么办",
+        "agent_response": "",
+        "detected_emotion": null,
+        "risk_level": null,
+        "intervention_type": null
+      }
+    ],
+    "summary": null,
+    "identified_themes": [],
+    "user_satisfaction": null
+  }
+]
